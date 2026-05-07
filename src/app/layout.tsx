@@ -32,6 +32,7 @@ export const metadata: Metadata = {
     template: "%s | Full Stack Developer",
   },
   description: siteDescription,
+  icons: "/amitlogo.png",
   openGraph: {
     type: "website",
     title: "Full Stack Developer",
